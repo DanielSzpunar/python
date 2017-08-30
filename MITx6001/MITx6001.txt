@@ -1,0 +1,31 @@
+syntactic errors: typed errors that the ide usually picks up.
+
+static semantic errors: unpredictable behavior.  For example, program loops indefinitely or program crashes.
+
+No semantic errors but different results than expected given:
+Program runs error free.  Miscalculation in formula or algorithm.
+
+4 Types of Scalar Objects:
+
+int : 3,4,1
+float: 3.14, .099
+bool: true or false
+NoneType: Special  and has one value, None
+
+type()
+
+type(3.5)
+float
+
+type(4)
+int
+
+Expressions:  object operator object
+x = 4
+3 - 3
+"hello" + " world"
+
+Aside from standard operators we also have:
+int division i//j
+i%j the remainder when I is divided by j
+i**j i to the power of j
