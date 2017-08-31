@@ -29,3 +29,30 @@ Aside from standard operators we also have:
 int division i//j
 i%j the remainder when I is divided by j
 i**j i to the power of j
+
+Week 1: Part II
+
+Swapping values:
+x = 1
+y = 2
+temp = y
+y = x
+x = temp
+
+Strings:
+eric = "My name is Eric"
+
+eric*2
+My name is EricMy name is Eric
+
+len(eric)
+29
+
+dan = "daniel"
+
+len(dan)
+6
+
+dan[1]
+a
+**Whereas in Java it would be dan.charAt(2);**
