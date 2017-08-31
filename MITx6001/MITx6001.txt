@@ -56,3 +56,23 @@ len(dan)
 dan[1]
 a
 **Whereas in Java it would be dan.charAt(2);**
+
+dan = "daniel"
+dan[1:3]
+would print: "an"
+dan[:3]
+dan
+dan[2:]
+niel
+dan[:]
+"daniel" (This is a copy, not the original)
+
+
+OUTPUT & INPUT:
+print()
+input()
+
+name = input("Enter your name:")
+>>Daniel
+name
+"Daniel"
