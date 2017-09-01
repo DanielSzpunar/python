@@ -76,3 +76,6 @@ name = input("Enter your name:")
 >>Daniel
 name
 "Daniel"
+
+*Input automatically creates a String.  To input a integer we must cast it.  For Example:
+number = int(input("Enter a number please: "))
