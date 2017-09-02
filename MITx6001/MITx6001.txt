@@ -78,4 +78,4 @@ name
 "Daniel"
 
 *Input automatically creates a String.  To input a integer we must cast it.  For Example:
-number = int(input("Enter a number please: "))
+number = int(input("Enter a number please: ")).
