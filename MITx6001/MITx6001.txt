@@ -1,3 +1,4 @@
+Notes Fir MITx6001
 syntactic errors: typed errors that the ide usually picks up.
 
 static semantic errors: unpredictable behavior.  For example, program loops indefinitely or program crashes.
